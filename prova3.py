@@ -1,3 +1,3 @@
 print("scrivi un carattere")
-c= input
+c= input()
 print(c)
