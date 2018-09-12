@@ -1,4 +1,4 @@
 a = 6
-b = 3
+b = 2
 ris = a+b
 print(ris)
